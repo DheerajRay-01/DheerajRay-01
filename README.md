@@ -1,4 +1,5 @@
-# 💫 About Me:
+![Banner](https://github.com/DheerajRay-01/DheerajRay-01/blob/main/bannerDR.jpg)
+# ✍ About Me:
 Dheeraj Ray | Aspiring Full-Stack Developer | Web Dev & DSA<br><br>Enthusiastic CS student actively learning web development (list key technologies) and applying DSA concepts to optimize code. Seeking opportunities to collaborate on projects and contribute to the developer communit
 
 
