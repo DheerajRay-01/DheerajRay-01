@@ -31,7 +31,9 @@ Dheeraj Ray | Aspiring Full-Stack Developer | Web Dev & DSA<br><br>Enthusiastic 
 I'm always open to collaborating on projects , learning from others , and contributing to the developer community . Feel free to reach out to me on:
   
   * [dheerajray2003@gmail.com](mailto:dheerajray2003@gmail.com) 📧
-  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-ray-628853291) 
+  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-ray-628853291)
+  * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/DheerajRay2003?t=CRaU7pTfTIzBfctvRMWvGA&s=35)
+
 
 ## Contributions Welcome! ️
 
