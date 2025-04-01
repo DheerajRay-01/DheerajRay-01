@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/DheerajRay-01/DheerajRay-01/blob/main/bannerDR.jpg)
+![Banner](https://github.com/DheerajRay-01/DheerajRay-01/blob/main/myBanner.png)
 
 # ✍ About Me:
 Hello! I'm **Dheeraj Ray**, an aspiring **Full-Stack Developer** with expertise in **Frontend** and **Backend Development**. Currently refining my skills in **Web Development** and **Data Structures & Algorithms (DSA)**. I am well-versed in technologies like **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**, and more. I am passionate about building efficient, scalable applications and continually improving my coding skills. I thrive in collaborative environments and always seek new opportunities to contribute to impactful projects.
