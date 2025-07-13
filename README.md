@@ -25,8 +25,6 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about creating digital
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
----
-
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -34,8 +32,6 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about creating digital
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
----
 
 ### 🛠 Backend
 
@@ -45,8 +41,6 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about creating digital
 ![Mongoose](https://img.shields.io/badge/Mongoose-A33E1F?style=for-the-badge\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-FFB13B?style=for-the-badge\&logo=json-web-tokens\&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white)
-
----
 
 ### ⚙️ Tools & Platforms
 
@@ -64,8 +58,8 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about creating digital
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DheerajRay-01&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajRay-01&layout=compact&theme=tokyonight&hide_border=true" width="43%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DheerajRay-01&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajRay-01&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -89,11 +83,5 @@ I’m always open to collaborating, learning, and contributing. Feel free to rea
 📧 [dheerajray2003@gmail.com](mailto:dheerajray2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dheeraj-ray-628853291)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/DheerajRay2003?t=CRaU7pTfTIzBfctvRMWvGA&s=35)
-
----
-
-## 📬 Contributions Welcome
-
-If my work interests you, feel free to fork my repos, suggest improvements, or submit pull requests. Let’s build something amazing together! 💡
 
 ---
