@@ -1,18 +1,18 @@
 ![Banner](https://github.com/DheerajRay-01/DheerajRay-01/blob/main/gitBanner.png)
 
-# 👋 Hey there! I’m Dheeraj Ray
+# 👋 Hey, I’m Dheeraj Ray
 
-Aspiring **Full-Stack Developer** | Passionate about building **efficient, scalable web apps** | Exploring **Web Development** and **DSA** | MERN Stack Enthusiast 🚀
+**Aspiring Full-Stack Developer** | MERN Stack Enthusiast 🚀 | Building scalable & impactful web apps | Exploring **Web Development** & **DSA**
 
 ---
 
 ## ✨ About Me
 
-Hi! I’m **Dheeraj**, a self-driven developer passionate about turning ideas into impactful digital solutions. I love working across the stack—designing intuitive UIs, crafting robust backends, and exploring scalable architectures.
+Hi! I’m **Dheeraj**, a self-driven developer passionate about creating digital solutions that make a difference. I love working across the stack — from crafting intuitive UIs to building robust, scalable backends.
 
-🔹 Currently learning & refining: **Web Development**, **DSA**
-🔹 Proficient in: **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**
-🔹 I thrive in collaborative environments and enjoy contributing to meaningful projects.
+🌱 **Currently Learning**: Advanced MERN, DSA, System Design
+💻 **Tech Proficiency**: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+🤝 **Collaboration**: I thrive in team environments and love contributing to open-source and community projects.
 
 ---
 
@@ -44,7 +44,7 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about turning ideas in
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-A33E1F?style=for-the-badge\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-FFB13B?style=for-the-badge\&logo=json-web-tokens\&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white)
 
 ---
 
@@ -63,10 +63,9 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about turning ideas in
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DheerajRay-01&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DheerajRay-01&theme=tokyonight&hide_border=true" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajRay-01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DheerajRay-01&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DheerajRay-01&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajRay-01&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -85,7 +84,7 @@ Hi! I’m **Dheeraj**, a self-driven developer passionate about turning ideas in
 
 ## 🤝 Let’s Connect
 
-I love collaborating on projects and sharing knowledge. Reach out to me:
+I’m always open to collaborating, learning, and contributing. Feel free to reach out:
 
 📧 [dheerajray2003@gmail.com](mailto:dheerajray2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dheeraj-ray-628853291)
@@ -93,8 +92,8 @@ I love collaborating on projects and sharing knowledge. Reach out to me:
 
 ---
 
-## 📬 Contributions Welcome!
+## 📬 Contributions Welcome
 
-If you like my work or want to collaborate, feel free to fork my repos and submit pull requests. Let’s build something amazing together! 💡
+If my work interests you, feel free to fork my repos, suggest improvements, or submit pull requests. Let’s build something amazing together! 💡
 
 ---
